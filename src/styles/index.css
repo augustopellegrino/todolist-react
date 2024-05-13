@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.main {
+  background-color: var(--color1);
+  width: 100vw;
+  height: 100vh;
+}
